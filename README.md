@@ -3,7 +3,7 @@
 ### [PG2025] Official repository of EAS of StyleMM [[Project Page](https://kwanyun.github.io/stylemm_page/)] 
 <img width="1793" height="656" alt="i2i_comp" src="https://github.com/user-attachments/assets/9b018b75-babc-40d6-a180-7b28e4286729" />
 
-#### This repository is code for EAS, not full Pipeline. Full pipeline will be released in september
+#### This repository is code for EAS, not full Pipeline. Code for full pipeline is [StyleMM Code](https://github.com/minewet/StyleMM)
 
 
 ### Getting Started
